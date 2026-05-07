@@ -23,6 +23,7 @@ public class Zmienne {
 
         boolean sun = true; //false
 
-
+       // https://github.com/przemjan/trzecia_p_2026_java_gr_2.git
     }
+
 }
